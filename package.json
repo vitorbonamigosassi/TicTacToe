@@ -1,5 +1,6 @@
 {
-  "name": "reacttut",
+  "name": "tictactoe",
+  "homepage": "https://vitorbonamigosassi.github.io/TicTacToe/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
